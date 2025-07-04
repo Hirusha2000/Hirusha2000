@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Hirusha.
-I'm Software Engineering Student.<br>
+I'm a Software Engineering Student.<br>
 Follow my blog for some insteresting topics. [Cyber Space](https://cyberspaceforu.blogspot.com/).
 
 
